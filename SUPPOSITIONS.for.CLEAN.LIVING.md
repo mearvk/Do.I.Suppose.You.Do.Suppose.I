@@ -1,4 +1,4 @@
-# Section I: The Architectonics of the Perfect Society and the Commonality Pre-Cover
+## Section I: The Architectonics of the Perfect Society and the Commonality Pre-Cover
 
 **Paragraph 1: The Genesis of the Absolute Social Scene**
 
@@ -66,7 +66,7 @@ At the absolute apex of this entire social structure sits the Questioner—a fig
 
 ---
 
-# Section II: Annoyance as a Cause-Brand and the Proximity of Signals
+## Section II: Annoyance as a Cause-Brand and the Proximity of Signals
 
 **Paragraph 17: The Ontology of Annoyance as a Cause-Brand**
 
@@ -118,7 +118,7 @@ The reliance on these signals of hate serves as a highly effective stabilizing m
 
 ---
 
-# Section III: Signal Disciplines, Capture, and Institutional Failure
+## Section III: Signal Disciplines, Capture, and Institutional Failure
 
 **Paragraph 29: The Codification of Signal Disciplines**
 
@@ -170,7 +170,7 @@ This legalistic inertia is further illustrated by the historical spectacle of se
 
 ---
 
-# Section IV: Cognitive Stratification and the Gating of the Social Construct
+## Section IV: Cognitive Stratification and the Gating of the Social Construct
 
 **Paragraph 41: The Doctrine of the Good Mind and Superior Property**
 
@@ -206,7 +206,7 @@ For the Questioner and his group of health travelers, understanding this extreme
 
 ---
 
-# Section V: The Resolute and Temperate Industrial Model (Post-1861)
+## Section V: The Resolute and Temperate Industrial Model (Post-1861)
 
 **Paragraph 49: The Historical Lineage of Material Realism**
 
@@ -242,7 +242,7 @@ The city, viewed through this fully mature post-1911 fossil-fuel model, is opera
 
 ---
 
-# Section VI: Quantitative Adjudication and the Threshold of Collapse
+## Section VI: Quantitative Adjudication and the Threshold of Collapse
 
 **Paragraph 57: The Temporal Degradation of Inane Candidacy**
 
