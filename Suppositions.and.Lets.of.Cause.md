@@ -1,5 +1,6 @@
 
 Section I: Architectonics of the Perfect Society
+
 The Genesis of the Absolute Social Scene
 The social architecture originates from a dense, deliberate surplus of structural harmony rather than scarcity. Society operates as a fully realized, radiant theater of civic and mechanical optimization. Every operational vector pre-aligns with prosperity. The streets, institutions, and domestic spaces project an aesthetic of absolute resolution. Lubricated by predictive design, this framework establishes a baseline existence where prosperity acts as an atmospheric reality rather than an aspirational milestone.
 The Perfect Common and Quantified Space
@@ -53,6 +54,7 @@ The Absolute Immunity of the Sovereign Questioner
 At the absolute apex sits the Questioner, a figure who has graduated from classical metrics of IQ and liberated themselves from human inadequacies. The Questioner exists in a state of internationally recognized wellness, completely immune to the gaze, judgments, or social frictions of strangers. As a sovereign medical and philosophical authority, the Questioner is authorized by their structural perfection to diagnose, categorize, and treat the rest of humanity.
 ---
 Section II: Systemic Deviance & The Annoyance Cause-Brand
+
 The Ontology of Annoyance as a Cause-Brand
 At the margins of the system, annoyance manifests not as a petty psychological reaction, but as a highly sophisticated, parasitic cause-brand. A cause-brand aggregates social discontent into a recognizable, reproducible behavioral signal. Annoyance operates by introducing calculated friction into optimized environments, turning irritation into a rallying point for those unable to achieve baseline wellness.
 Signal Proximity to Systemic Infrastructure
@@ -93,6 +95,7 @@ The Weaponization of Strategic Animus
 Directing the ambient frustrations of lower cognitive classes toward carefully selected scapegoats serves as a stabilizing mechanism for the elite. The energy that would otherwise question the architectural legitimacy of the city is safely dissipated in horizontal conflicts between rival sub-brands of engineered resentment, leaving core extraction and resource management systems untouched.
 ---
 Section III: Signal Disciplines & Institutional Failures
+
 The Codification of Signal Disciplines
 When annoyance, mediation, and control reach peak density, they formalize into signal disciplines. These highly specialized institutional frameworks treat every aspect of human life as an informational input subjected to immediate behavioral coding. A citizen’s worth is determined entirely by their capacity to emit clean, predictable data matching pre-existing templates.
 The Ontology of Preemptive Capture
