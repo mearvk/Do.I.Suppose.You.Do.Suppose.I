@@ -282,6 +282,9 @@ Labor conceptualized as a noise‑free signal that feeds directly into the produ
 **Annoyance Cause‑Brand:**
 A parasitic ideological micro‑brand that weaponizes micro‑frictions to create identity among individuals unable to meet the system’s wellness baseline.
 
+**Architectonic:** 
+Broadly refers to the science or principles of architecture, but it is more often used figuratively to describe something with a highly organized, unified, and structural design. It implies a sense of systematic order and foundational harmony.
+
 **Caught Already:**
 A doctrine asserting that all individuals are pre‑captured, pre‑categorized, and pre‑debited by the system before birth; no pre‑institutional innocence exists.
 
