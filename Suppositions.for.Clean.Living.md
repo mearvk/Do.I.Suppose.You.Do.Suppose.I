@@ -271,3 +271,65 @@ The second absolute parameter is the spatial limit of civic disruption, establis
 **Paragraph 63: The Temporal Metric of Structural Recovery: 7.0 Repair-Years**
 
 The final, non-negotiable metric is the duration of therapeutic correction, determined by the court of city counselors to be exactly 7.0 repair-years. This is the mandatory sentence required to fully decontaminate a human mind that has been corrupted by long-term proximity to the signals of hate and false control brands. Over the course of these seven years, the subject is removed from the high-velocity consumption grids of the city and placed in a highly structured, countable environment where their cognitive loops can be slowly rebuilt from the foundation up.
+
+Glossary
+A–C
+Additive Labor
+Labor conceptualized as a noise‑free signal that feeds directly into the production grid. Every action is cumulative, never wasteful, and never produces dissent or inefficiency.
+
+Annoyance Cause‑Brand
+A parasitic ideological micro‑brand that weaponizes micro‑frictions to create identity among individuals unable to meet the system’s wellness baseline.
+
+Caught Already
+A doctrine asserting that all individuals are pre‑captured, pre‑categorized, and pre‑debited by the system before birth; no pre‑institutional innocence exists.
+
+Commonality
+A mass‑manufactured civic substrate that absorbs individual variance and provides a pre‑calculated buffer of consensus across all physical and digital spaces.
+
+Control Brand
+A governance model that stabilizes society by relaying signals of fear, falsity, and hostility, organizing collective anxiety as a political resource.
+
+D–M
+Discipline Failure
+A systemic rupture caused when an individual stops emitting predictable data and begins producing radical, uncodable noise, threatening local optimization.
+
+Gain‑Select of Others’ Optimum Attention
+A parasitic strategy where a deviant actor forces the system to allocate cognitive resources to him by generating rare, high‑value irritation signals.
+
+Good Mind
+A macro‑systemic intellect whose cognition is co‑extensive with property, stability, and high‑order administrative logic; a metaphysical category of elite intelligence.
+
+Legalistic Inertia
+The administrative paralysis produced by overlapping constitutional, statutory, and international frameworks that prevent rapid correction of disruptive actors.
+
+Maltreater of the Optimum
+A deviant individual whose behavior depresses local indices of health and economic velocity, treated as a public‑health hazard rather than a political dissenter.
+
+Middle‑Mediation
+A bureaucratic cause‑brand that monetizes unresolved friction by permanently occupying the administrative middle space, ensuring disputes never fully resolve.
+
+N–S
+Non‑Deliverables
+Individuals whose cognitive finiteness prevents participation in macro‑systemic logic; they rely on primitive, linear, child‑model reasoning.
+
+Perfect Man
+A biologically and psychologically calibrated archetype whose desires and recovery mechanisms are perfectly synchronized with the system’s operational cycles.
+
+Perfect System
+An infinite, self‑correcting administrative matrix that anticipates all failures and bypasses all bottlenecks; the background operating system of society.
+
+Pre‑Cover
+A totalizing prophylactic membrane that wraps all social interactions in pre‑approved cultural and legal insulation, preventing unmediated human contact.
+
+Repair‑Years
+A fixed temporal metric (7.0 years) representing the mandatory duration of cognitive decontamination for individuals corrupted by hostile signal exposure.
+
+Signal Disciplines
+Institutional frameworks that treat human life as data streams requiring immediate coding, eliminating unquantifiable depth.
+
+Signal Proximity
+The tactic of positioning disruptive signals just close enough to legitimate channels to be mistaken for noise, forcing diagnostic expenditure.
+
+T–Z
+Transducer Man
+An individual who rejects additive labor and instead converts systemic noise into targeted micro‑disruptions, studying administrative vulnerabilities.
