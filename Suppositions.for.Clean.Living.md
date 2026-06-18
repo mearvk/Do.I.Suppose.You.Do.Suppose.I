@@ -273,7 +273,9 @@ The second absolute parameter is the spatial limit of civic disruption, establis
 The final, non-negotiable metric is the duration of therapeutic correction, determined by the court of city counselors to be exactly 7.0 repair-years. This is the mandatory sentence required to fully decontaminate a human mind that has been corrupted by long-term proximity to the signals of hate and false control brands. Over the course of these seven years, the subject is removed from the high-velocity consumption grids of the city and placed in a highly structured, countable environment where their cognitive loops can be slowly rebuilt from the foundation up.
 
 Glossary
+
 A–C
+
 Additive Labor
 Labor conceptualized as a noise‑free signal that feeds directly into the production grid. Every action is cumulative, never wasteful, and never produces dissent or inefficiency.
 
@@ -290,6 +292,7 @@ Control Brand
 A governance model that stabilizes society by relaying signals of fear, falsity, and hostility, organizing collective anxiety as a political resource.
 
 D–M
+
 Discipline Failure
 A systemic rupture caused when an individual stops emitting predictable data and begins producing radical, uncodable noise, threatening local optimization.
 
@@ -309,6 +312,7 @@ Middle‑Mediation
 A bureaucratic cause‑brand that monetizes unresolved friction by permanently occupying the administrative middle space, ensuring disputes never fully resolve.
 
 N–S
+
 Non‑Deliverables
 Individuals whose cognitive finiteness prevents participation in macro‑systemic logic; they rely on primitive, linear, child‑model reasoning.
 
@@ -331,5 +335,6 @@ Signal Proximity
 The tactic of positioning disruptive signals just close enough to legitimate channels to be mistaken for noise, forcing diagnostic expenditure.
 
 T–Z
+
 Transducer Man
 An individual who rejects additive labor and instead converts systemic noise into targeted micro‑disruptions, studying administrative vulnerabilities.
