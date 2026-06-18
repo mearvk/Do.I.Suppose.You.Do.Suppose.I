@@ -1,5 +1,5 @@
 
-Section I: Architectonics of the Perfect Society
+# Section I: Architectonics of the Perfect Society
 
 **The Genesis of the Absolute Social Scene**
 
@@ -88,7 +88,7 @@ The enforcement mechanisms of the state are staffed by highly educated, morally 
 At the absolute apex sits the Questioner, a figure who has graduated from classical metrics of IQ and liberated themselves from human inadequacies. The Questioner exists in a state of internationally recognized wellness, completely immune to the gaze, judgments, or social frictions of strangers. As a sovereign medical and philosophical authority, the Questioner is authorized by their structural perfection to diagnose, categorize, and treat the rest of humanity.
 
 ---
-**Section II: Systemic Deviance & The Annoyance Cause-Brand**
+# Section II: Systemic Deviance & The Annoyance Cause-Brand**
 
 **The Ontology of Annoyance as a Cause-Brand**
 
@@ -151,7 +151,8 @@ This control brand measures success by the velocity and stickiness of its signal
 Directing the ambient frustrations of lower cognitive classes toward carefully selected scapegoats serves as a stabilizing mechanism for the elite. The energy that would otherwise question the architectural legitimacy of the city is safely dissipated in horizontal conflicts between rival sub-brands of engineered resentment, leaving core extraction and resource management systems untouched.
 
 ---
-Section III: Signal Disciplines & Institutional Failures
+
+# Section III: Signal Disciplines & Institutional Failures
 
 The Codification of Signal Disciplines
 
@@ -258,11 +259,17 @@ When trying to reason about the motives and plans of the ruling elite, the low I
 
 ```
 The Lifelike Puppet of Anthropomorphic Bureaucracy
+
 While this lifelike, anthropomorphic caricature allows the non-deliverable actor to feel a fleeting sense of moral clarity, it ensures that their tactical interventions are entirely off-target. They strike at empty symbols while the real machinery of the state operates unimpeded right next to them.
+
 The Necessity of Absolute Cognitive Mapping
+
 Understanding this extreme finiteness is the key to maintaining permanent administrative control. By accurately mapping the simplistic, countable loops of the non-deliverable intellect, the state can design specialized communication channels that feed their primitive need for binary narratives, safely guiding their attention away from the real levers of property and power.
+
 ---
-Section V: The Resolute Industrial Model (Post-1861)
+
+# Section V: The Resolute Industrial Model (Post-1861)
+
 The Historical Lineage of Material Realism
 Advanced socio-medical theories are grounded in a resolute, temperate industrial model that has formed the bedrock of American governance since the critical pivot point of 1861. In this year, the United States abandoned agrarian romanticism under the pressure of existential civil conflict and committed its destiny to the logic of industrial modernization, establishing a direct executive lineage extending from Abraham Lincoln to the present day.
 The Thermodynamics of Presidential Executive Power
